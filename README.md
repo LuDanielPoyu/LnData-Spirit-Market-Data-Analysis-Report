@@ -24,7 +24,8 @@ The sponsor needed a clear, data-driven view of Taiwan’s **spirits market**, i
 
 ### P1 — Market Cleaning & Category Share (Invoice Data)
 - **Cleaning pipeline:** drop negative quantity and price rows; pair off suspected refunds; filter to spirits-relevant retail channels; keyword rules to exclude non-spirit items. 
-- **Category split:** whisky ~32.6%, red wine ~19.2%, kaoliang ~14.7% (2022/04–2023/10). 
+- **Category split:** whisky ~32.6%, red wine ~19.2%, kaoliang ~14.7% (2022/04–2023/10).
+<img width="1328" height="728" alt="截圖 2025-11-04 凌晨12 31 30" src="https://github.com/user-attachments/assets/6def6300-6e8f-469c-8870-d9d8015ea796" />
 
 ### P2 — Consumer Profile Cuts (Age & Gender)
 - **Complete-fields subset:** ~78,978 rows with both age & gender; built five age bands and compared spend and quantity. 
@@ -38,7 +39,7 @@ The sponsor needed a clear, data-driven view of Taiwan’s **spirits market**, i
   - **Cluster 2 (~31%)** — mid-spend, male-skewed.  
   - **Cluster 3 (~12%)** — low-spend, younger, female-leaning.
 - **Implications:** commuter and office bundles (C1/C2), delivery-only promos (C2), entry-price assortments & social creatives (C3).
-- <img width="551" height="372" alt="截圖 2025-11-04 凌晨12 30 09" src="https://github.com/user-attachments/assets/569c92e9-165b-4371-afcf-bc06e1c4a011" />
+ <img width="551" height="372" alt="截圖 2025-11-04 凌晨12 30 09" src="https://github.com/user-attachments/assets/569c92e9-165b-4371-afcf-bc06e1c4a011" />
 
 
 ### P4 — Temporal & Brand Patterns
@@ -62,8 +63,6 @@ The sponsor needed a clear, data-driven view of Taiwan’s **spirits market**, i
 ---
 
 ## Methods & Stack
-**Python**, **pandas**, **scikit-learn** (K-means, scaling), basic **time-series cuts**, **matplotlib**/**seaborn** for visuals; public data (IWSR/Statista) for market context. :contentReference[oaicite:21]{index=21}
+**Python**, **pandas**, **scikit-learn** (K-means, scaling), basic **time-series cuts**, **matplotlib**/**seaborn** for visuals; public data (IWSR/Statista) for market context
 
 ---
-
-## Repo Map (suggested)
