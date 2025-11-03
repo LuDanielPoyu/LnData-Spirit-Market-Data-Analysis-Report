@@ -1,4 +1,4 @@
-<img width="1115" height="527" alt="截圖 2025-11-04 凌晨1 05 19" src="https://github.com/user-attachments/assets/e18c610f-8516-4ac0-a131-e219bb0e5236" /># NCCU Data Analysis Student Club - LnData Taiwan Spirit Market Project,
+# NCCU Data Analysis Student Club - LnData Taiwan Spirit Market Project,
 
 **Role:** Project Manager & Data Scientist (Team Project)  
 **When:** July 2023 – June 2024
