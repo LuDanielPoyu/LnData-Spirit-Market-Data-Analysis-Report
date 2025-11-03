@@ -1,4 +1,4 @@
-# NCCU Data Analysis Student Club - LnData Taiwan Spirit Market Project,
+<img width="1115" height="527" alt="截圖 2025-11-04 凌晨1 05 19" src="https://github.com/user-attachments/assets/e18c610f-8516-4ac0-a131-e219bb0e5236" /># NCCU Data Analysis Student Club - LnData Taiwan Spirit Market Project,
 
 **Role:** Project Manager & Data Scientist (Team Project)  
 **When:** July 2023 – June 2024
@@ -31,6 +31,8 @@ The sponsor needed a clear, data-driven view of Taiwan’s **spirits market**, i
 - **Complete-fields subset:** ~78,978 rows with both age & gender; built five age bands and compared spend and quantity. 
 - **Key contrasts:** whisky buyers average ~38 yrs; red-wine buyers ~44.8 yrs; male whisky spend ≈ **1.92×** female; female average ticket peaks at 51–60 then declines. 
 <img width="551" height="372" alt="截圖 2025-11-04 凌晨12 36 40" src="https://github.com/user-attachments/assets/251d2d9f-1759-436d-82d4-1c1b0ca5e3ed" />
+
+<img width="551" height="372" alt="截圖 2025-11-04 凌晨1 05 19" src="https://github.com/user-attachments/assets/a7b67638-ada7-44f1-b382-f22df7f2e643" />
 
 ### P3 — K-means Aegmentation (Actionable Cohorts)
 - **Preprocess:** encode gender (M=0, F=1, missing=−1); impute age and amount with means to retain coverage; scale features.   
