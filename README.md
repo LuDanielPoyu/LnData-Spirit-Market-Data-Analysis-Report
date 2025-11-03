@@ -54,7 +54,9 @@ The sponsor needed a clear, data-driven view of Taiwan’s **spirits market**, i
 - **External environment:** raw-material shocks (Ukraine grains), climate risks, supply volatility → potential price/quality pressure. 
 - **Policy/tax:** proposed **online sales** opening and current excise/VAT regimes shape channel economics and consumer behavior. 
 - **Channels:** IWSR split of on-premise vs off-premise varies by category; spirits skew more **off-premise** in Taiwan.
-- **Whisky market:** 2022 import volumes healthy with **M-shaped** price-tier distribution; multi-year outlook remains optimistic. 
+- **Whisky market:** 2022 import volumes healthy with **M-shaped** price-tier distribution; multi-year outlook remains optimistic.
+<img width="551" height="372" alt="截圖 2025-11-04 凌晨1 07 36" src="https://github.com/user-attachments/assets/edc8dc67-79e4-4c12-b2f7-beb5f7e374fc" />
+
 ---
 
 ## Results (selected)
