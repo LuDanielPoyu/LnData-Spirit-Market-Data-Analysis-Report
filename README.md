@@ -30,12 +30,12 @@ The sponsor needed a clear, data-driven view of Taiwan’s **spirits market**, i
 
 ### P2 — Consumer Profile Cuts (Age & Gender)
 - **Complete-fields subset:** ~78,978 rows with both age & gender; built five age bands and compared spend and quantity. 
-- **Key contrasts:** whisky buyers average ~38 yrs; red-wine buyers ~44.8 yrs; male whisky spend ≈ **1.92×** female; female average ticket peaks at 51–60 then declines. 
+- **Key contrasts:** whisky buyers average ~38 yrs; red-wine buyers ~44.8 yrs; male whisky spend ≈ **1.92×** female spend; female average ticket peaks at 51–60 then declines. 
 <img width="551" height="372" alt="截圖 2025-11-04 凌晨12 36 40" src="https://github.com/user-attachments/assets/251d2d9f-1759-436d-82d4-1c1b0ca5e3ed" />
 
 <img width="551" height="372" alt="截圖 2025-11-04 凌晨1 05 19" src="https://github.com/user-attachments/assets/a7b67638-ada7-44f1-b382-f22df7f2e643" />
 
-### P3 — K-means Aegmentation (Actionable Cohorts)
+### P3 — K-means Segmentation (Actionable Cohorts)
 - **Preprocess:** encode gender (M=0, F=1, missing=−1); impute age and amount with means to retain coverage; scale features.   
 - **Modeling:** **K=3** from elbow; 6-feature set (amount, basket size, age, gender, etc.). 
 - **Cohorts (high level):**  
@@ -47,7 +47,7 @@ The sponsor needed a clear, data-driven view of Taiwan’s **spirits market**, i
 
 ### P4 — Temporal & Brand Patterns
 - **Seasonality:** **January** is the clear peak (overall volume & average ticket); 7–8 months show higher-price purchases (party/holiday hypothesis). 
-- **Weekpart by brand:** weekend peaks for Johnnie Walker / Singleton / Glenfiddich / Dewar’s; **Thursday** peak for **Macallan**; some brands show no strong pattern. 
+- **Day-of-week by brand:** weekend peaks for Johnnie Walker / Singleton / Glenfiddich / Dewar’s; **Thursday** peak for **Macallan**; some brands show no strong pattern. 
 - **By spend tier:** high vs. low-spend whisky buyers share similar month trends; average ticket shows two peaks (Jan and mid-summer). 
 <img width="551" height="372" alt="截圖 2025-11-04 凌晨12 35 13" src="https://github.com/user-attachments/assets/17f68781-71e6-4d05-ba15-8ef8d2979df2" />
 
