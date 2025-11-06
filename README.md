@@ -1,6 +1,7 @@
 # NCCU Data Analysis Student Club - LnData Taiwan Spirit Market Project,
 
-**Role:** Project Manager & Data Scientist (Team Project)  
+**Role:** Project Manager & Data Scientist (Team Project) 
+
 **When:** July 2023 – June 2024
 
 > **Note:** This repository uses sanitized descriptions and **synthetic examples only**.  
